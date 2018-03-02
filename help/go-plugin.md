@@ -29,7 +29,7 @@ options:
 
 * `gofmt`: run gofmt on file saved. Default value: `on`
 * `goimports`: run goimports on file saved. Default value: `off`
-* `goreturns`: run goimports on file saved. Default value: `off`
+* `goreturns`: run goreturns on file saved. Default value: `off`
 
 To use `gorename`, place your cursor over the variable you would like
 to rename and enter the command `> gorename newName`.
