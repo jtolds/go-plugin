@@ -126,7 +126,7 @@ function godef()
     v = CurView()
     v:Open(dest)
     v.Cursor:GotoLoc(pos)
-		v:Relocate()
+    v:Relocate()
 end
 
 function goreturns()
